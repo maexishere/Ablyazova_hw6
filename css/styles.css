@@ -1,12 +1,13 @@
 p {
-    font-family: 'Calibri';}
+    font-family: 'Calibri';
+    color: rgb(199, 185, 185)}
 h1, h2, h3 {
-    font-family: 'Courier New';
-    color: rgb(28, 104, 128);}
+    font-family: 'Sylfaen';
+    color: rgb(218, 93, 124);}
 body {
-    font-family: 'Courier New';
-    color:rgb(70, 158, 185);}
-a:visited {color: rgb(187, 179, 105);}
-a:link {color: rgb(43, 182, 163);}
-a:hover {color: rgb(125, 153, 79);}
-a:active {color: rgb(179, 192, 0);}
+    font-family: 'Sylfaen';
+    color:rgb(147, 151, 158);}
+a:visited {color: rgb(152, 111, 185);}
+a:link {color: rgb(192, 53, 118);}
+a:hover {color: rgb(135, 143, 250);}
+a:active {color: rgb(165, 170, 253);}
