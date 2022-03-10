@@ -1,0 +1,12 @@
+p {
+    font-family: 'Calibri';}
+h1, h2, h3 {
+    font-family: 'Courier New';
+    color: rgb(28, 104, 128);}
+body {
+    font-family: 'Courier New';
+    color:rgb(70, 158, 185);}
+a:visited {color: rgb(187, 179, 105);}
+a:link {color: rgb(43, 182, 163);}
+a:hover {color: rgb(125, 153, 79);}
+a:active {color: rgb(179, 192, 0);}
